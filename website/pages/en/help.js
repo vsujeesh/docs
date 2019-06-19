@@ -30,10 +30,6 @@ function Help(props) {
       content: 'Ask questions about the documentation and project on our [Discord Chat](https://discord.gg/KKYdWjt)',
       title: 'Join the community',
     },
-    {
-      content: "Find out what's new with this project",
-      title: 'Stay up to date',
-    },
   ];
 
   return (
@@ -44,7 +40,7 @@ function Help(props) {
             <h1>Need help?</h1>
           </header>
           <p>This project is maintained by a dedicated group of people.</p>
-          <GridBlock contents={supportLinks} layout="threeColumn" />
+          <GridBlock contents={supportLinks} layout="twoColumn" />
         </div>
       </Container>
     </div>
