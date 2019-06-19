@@ -38,7 +38,6 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
     {doc: 'contributing', label: 'Contributing'},
     {page: 'help', label: 'Help'}
   ],
@@ -88,18 +87,18 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/undraw_online.svg',
-  twitterImage: 'img/undraw_tweetstorm.svg',
+  ogImage: 'img/docs.png',
+  twitterImage: 'img/docs.png',
 
   // Show documentation's last contributor's name.
-  // enableUpdateBy: true,
+  enableUpdateBy: true,
 
   // Show documentation's last update time.
-  // enableUpdateTime: true,
+  enableUpdateTime: true,
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
-    repoUrl: 'https://github.com/learn-anything/learn-anything',
+  repoUrl: 'https://github.com/learn-anything/learn-anything',
 };
 
 module.exports = siteConfig;
