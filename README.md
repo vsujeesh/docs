@@ -8,7 +8,7 @@
 
 ## Contributing
 
-Please read our [contribution guidelines](CONTRIBUTING.md#readme).
+Please read our [documentation contribution guidelines](https://docs.learn-anything.org/docs/docs-contributing).
 
 ## Curated Lists
 
