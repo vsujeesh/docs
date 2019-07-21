@@ -3,3 +3,4 @@ node_modules
 public
 *.log
 *.swp
+.DS_Store
