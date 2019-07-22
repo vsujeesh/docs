@@ -4623,9 +4623,9 @@ gatsby-telemetry@^1.1.6:
     uuid "3.3.2"
 
 gatsby-theme-documentation@*:
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-documentation/-/gatsby-theme-documentation-0.0.18.tgz#d31c41d2028959d567ce9d8492ce7b618233c5bd"
-  integrity sha512-o20M7R8Oc0SpfCbT8Ra29RnjHmQUr3AJtOT+5YNvmxP12pXbLEGAr42STBEfQ38EWFeLzva+XExajbwcQ/5CrA==
+  version "0.0.19"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-documentation/-/gatsby-theme-documentation-0.0.19.tgz#a0ac494469375d7a517eef1d2521e62222a0bd4c"
+  integrity sha512-E2tUjtf34aytOQskxIWQgDMuHfblKSmc7fBS0IIjP30JOSx7sIV+7/q2LebxeQH8tvIN5K7rQa4sN6BB8ntUiA==
   dependencies:
     "@emotion/core" "^10.0.14"
     "@mdx-js/mdx" "^1.0.25"
