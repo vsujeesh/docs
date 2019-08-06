@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Learn Anything | Docs',
-    description: 'This is a starter for gatsby-theme-documentation'
+    title: 'Learn Anything Docs',
+    description: 'Learn Anything Docs'
   },
   plugins: [
     'gatsby-theme-documentation'
