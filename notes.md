@@ -37,13 +37,13 @@
 
 ## URLs
 
-- Home page: learn-anything.org
-- Topic page: learn-anything.org/<topic> (`learn-anything.org/math`)
-- Guides of topic: learn-anything.org/<topic>/guides (`learn-anything.org/math/guides/`)
-- Published guide for a topic: learn-anything.org/<topic>/guides/<guide-name> (`learn-anything.org/math/guides/17`)
-- User profile: learn-anything.org/user/<username> (`learn-anything.org/user/nikita`)
-- Ideas of user: learn-anything.org/user/<username>/ideas (`learn-anything.org/user/nikita/ideas`)
-- Idea of user: learn-anything.org/user/<username>/ideas/<idea-id> (`learn-anything.org/user/nikita/ideas/15`)
+- Home page: learn-anything.xyz
+- Topic page: learn-anything.xyz/<topic> (`learn-anything.xyz/math`)
+- Guides of topic: learn-anything.xyz/<topic>/guides (`learn-anything.xyz/math/guides/`)
+- Published guide for a topic: learn-anything.xyz/<topic>/guides/<guide-name> (`learn-anything.xyz/math/guides/17`)
+- User profile: learn-anything.xyz/user/<username> (`learn-anything.xyz/user/nikita`)
+- Ideas of user: learn-anything.xyz/user/<username>/ideas (`learn-anything.xyz/user/nikita/ideas`)
+- Idea of user: learn-anything.xyz/user/<username>/ideas/<idea-id> (`learn-anything.xyz/user/nikita/ideas/15`)
 
 ## Links
 
