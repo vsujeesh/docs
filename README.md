@@ -1,6 +1,6 @@
 # Learn Anything Docs
 
-This repo holds [documentation](https://docs.learn-anything.org/) for [Learn Anything](https://github.com/learn-anything/learn-anything).
+This repo holds [documentation](https://docs.learn-anything.xyz) for [Learn Anything](https://github.com/learn-anything/learn-anything).
 
 If you like the project, please support it on [Patreon](https://patreon.com/learnanything). ♥️
 
